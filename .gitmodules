@@ -1,6 +1,6 @@
 [submodule "zoo"]
 	path = zoo
-	url = https://github.com/raven5211/fsa_block04_zoo.git
+	url = https://github.com/raven5211/fsa_block_1_04_zoo.git
 [submodule "html_practice"]
 	path = html_practice
-	url = https://github.com/raven5211/fsa_block04_html_practice.git
+	url = https://github.com/raven5211/fsa_block_1_04_html_practice.git
